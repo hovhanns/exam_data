@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Christopher Miller",
+        "age": 28,
+        "occupation": "Engineer"
+    },
+    {
+        "id": 2,
+        "name": "Olivia Wilson",
+        "age": 30,
+        "occupation": "Teacher"
+    },
+    {
+        "id": 3,
+        "name": "Daniel Brown",
+        "age": 25,
+        "occupation": "Graphic Designer"
+    }
+]

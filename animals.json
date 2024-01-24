@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Lion",
+        "type": "Mammal",
+        "habitat": "Grasslands"
+    },
+    {
+        "id": 2,
+        "name": "Dolphin",
+        "type": "Aquatic Mammal",
+        "habitat": "Oceans"
+    },
+    {
+        "id": 3,
+        "name": "Eagle",
+        "type": "Bird",
+        "habitat": "Mountains"
+    }
+]

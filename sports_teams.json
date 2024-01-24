@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Los Angeles Lakers",
+        "sport": "Basketball",
+        "city": "Los Angeles"
+    },
+    {
+        "id": 2,
+        "name": "Real Madrid",
+        "sport": "Football",
+        "city": "Madrid"
+    },
+    {
+        "id": 3,
+        "name": "New England Patriots",
+        "sport": "American Football",
+        "city": "Boston"
+    }
+]

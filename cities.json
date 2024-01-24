@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Paris",
+        "country": "France",
+        "population": 2148000
+    },
+    {
+        "id": 2,
+        "name": "New York City",
+        "country": "United States",
+        "population": 8398748
+    },
+    {
+        "id": 3,
+        "name": "Tokyo",
+        "country": "Japan",
+        "population": 37435191
+    }
+]

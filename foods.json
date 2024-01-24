@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "cuisine": "Italian",
+        "calories": 500
+    },
+    {
+        "id": 2,
+        "name": "Sushi",
+        "cuisine": "Japanese",
+        "calories": 300
+    },
+    {
+        "id": 3,
+        "name": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "calories": 600
+    }
+]
